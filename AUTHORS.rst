@@ -1,7 +1,6 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
-
-
+* Yngve Fagerheim
+* Alexander Fjellandsbø Uglehus
+* Jan-Petter Ihle
